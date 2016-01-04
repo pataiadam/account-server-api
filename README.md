@@ -6,7 +6,7 @@ Repo: https://github.com/pataiadam/account-server
 
 This library is distributed on npm. In order to add it as a dependency, run the following command:
 ```
-npm install googleapis --save
+npm install account-server-api --save
 ```
 
 ## Usage
